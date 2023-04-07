@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome to my Github Profile!
 
-<!--
-**zibu9/zibu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- Bachelor's degree in Computer Science from the University of Kinshasa.
 
-Here are some ideas to get you started:
+## Programming Languages
+- PHP
+- Typescript
+- Javascript
+- Csharp
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks
+- React
+- Tailwind
+- Laravel
+- CodeIgniter
+- Bootstrap
+
+## Content Management Systems
+- WordPress
+
+## Design Tools
+- Figma
+
+## Version Control Systems
+- Git
+- Github
+- Gitlab
+
+Feel free to check out my repositories and contributions. Don't hesitate to contact me if you have any questions or want to collaborate on a project!
