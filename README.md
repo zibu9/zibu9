@@ -1,4 +1,4 @@
-# Welcome to my Github Profile!
+# Hey i'm Junior Kabuya Welcome to my Github Profile!
 
 ## Education
 - Bachelor's degree in Computer Science from the University of Kinshasa.
