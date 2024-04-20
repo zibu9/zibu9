@@ -13,13 +13,11 @@
 
 ## Frameworks
 - React
+- React Native
 - Tailwind
 - Laravel
 - CodeIgniter
 - Bootstrap
-
-## Content Management Systems
-- WordPress
 
 ## Design Tools
 - Figma
