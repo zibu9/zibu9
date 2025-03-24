@@ -50,101 +50,51 @@
 ![API](https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=swagger&logoColor=white)
 
 ### 🌐 Web Development
-- 🌐 **Frontend Development**
-  - Responsive web applications
-  - Modern UI/UX implementation
-  - Cross-browser compatibility
-  - Performance optimization
-- 🔄 **Backend Development**
-  - RESTful API architecture
-  - Server-side rendering
-  - Microservices design
-  - Security implementation
-- 📱 **Mobile Development**
-  - Cross-platform applications
-  - Native-like performance
-  - Mobile-first design
-  - App store deployment
+- 🌐 **Frontend**
+  - React & React Native
+  - Responsive Design
+  - UI/UX Implementation
+- 🔄 **Backend**
+  - Laravel & CodeIgniter
+  - RESTful APIs
+  - Microservices
 
-### 🔧 Network & System Administration
-- 🌐 **Network Monitoring**
-  - Observium deployment
-  - Cacti implementation
-  - Network performance tracking
-  - System health monitoring
-- 🔐 **RADIUS & Authentication**
-  - RADIUS server setup
-  - Subscription management API
-  - User authentication system
-  - Access control implementation
-- 📊 **System Management**
-  - Server administration
-  - Network automation
-  - System optimization
-  - Security hardening
+### 🔧 Network & System
+- 🌐 **Monitoring**
+  - Observium & Cacti
+  - Network Performance
+- 🔐 **RADIUS**
+  - Server Setup
+  - Subscription Management
+- 📊 **System Admin**
+  - Server Management
+  - Network Automation
 
-### 💾 Database Management
-- 📊 **Database Systems**
-  - MySQL expertise
-  - SQL Server management
-  - Database optimization
-  - Query performance tuning
-- 🔄 **Data Operations**
-  - Schema design
-  - Migration management
-  - Backup strategies
-  - Data integrity
+### 💾 Database
+- 📊 **Systems**
+  - MySQL & SQL Server
+  - Query Optimization
+- 🔄 **Operations**
+  - Schema Design
+  - Data Migration
 
-### 📝 API Development & Documentation
-- 🔍 **API Design**
-  - RESTful architecture
-  - API versioning
-  - Security protocols
-  - Rate limiting
-- 📚 **Documentation**
+### 📝 API & Documentation
+- 🔍 **Development**
+  - RESTful Architecture
   - Swagger/OpenAPI
-  - API documentation
-  - Technical writing
-  - Code documentation
 - 📊 **Monitoring**
-  - API analytics
-  - Performance tracking
-  - Error monitoring
-  - Usage statistics
+  - Performance Tracking
+  - Error Handling
 
-### 🛠️ Development Methodologies
-- 📋 **Agile Practices**
-  - Scrum methodology
-  - Sprint planning
-  - User stories
-  - Sprint retrospectives
-- 🔄 **DevOps**
-  - CI/CD pipelines
-  - Automated testing
-  - Deployment automation
-  - Version control
-- 📝 **Documentation**
-  - Technical documentation
-  - API documentation
-  - Code documentation
-  - User guides
+### 🛠️ Methodologies
+- 📋 **Agile/Scrum**
+- 🔄 **DevOps/CI-CD**
+- 📝 **Technical Writing**
 
 ### 👥 Soft Skills
 - 💬 **Communication**
-  - Technical presentation
-  - Team collaboration
-  - Client interaction
-  - Documentation
 - ⚡ **Problem Solving**
-  - Analytical thinking
-  - Debugging
-  - Root cause analysis
-  - Solution design
-- 📚 **Learning**
-  - Technology watch
-  - Continuous improvement
-  - Knowledge sharing
-  - Mentoring
+- 📚 **Continuous Learning**
 
 ## 🤝 Contact & Collaboration
 
