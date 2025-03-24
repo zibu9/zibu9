@@ -1,18 +1,18 @@
-# 👋 Bonjour, je suis Junior Kabuya
+# 👋 Hi, I'm Junior Kabuya
 
-## 🚀 Développeur Full Stack Passionné
+## 🚀 Passionate Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junior-kabuya-40b2b9226)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zibu9)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KabuyaJunior5)
 [![Website](https://img.shields.io/badge/Website-Skytech243-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://skytech243.com)
 
-## 📚 Formation
-- 🎓 Bachelor en Informatique - Université de Kinshasa
+## 📚 Education
+- 🎓 Bachelor's degree in Computer Science - University of Kinshasa
 
-## 💻 Technologies & Outils
+## 💻 Technologies & Tools
 
-### Langages de Programmation
+### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,44 +36,119 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zibu9&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zibu9&layout=compact&theme=radical)
 
-## 🎯 Compétences
+## 🎯 Skills
 
-### Développement Web
-- 🌐 Création d'applications web responsives
-- 🔄 Développement d'APIs RESTful
-- 🎨 Intégration de designs UI/UX
-- 📱 Développement d'applications mobiles cross-platform
-- 🔒 Sécurisation des applications web
-- 🚀 Optimisation des performances
+### 💻 Development Stack
+![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-61DAFB?style=flat-square&logo=react&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=swagger&logoColor=white)
 
-### Base de données
-- 💾 MySQL, PostgreSQL
-- 🔍 Optimisation des requêtes SQL
-- 📊 Conception de schémas de base de données
-- 🔄 Migration et maintenance des bases de données
+### 🌐 Web Development
+- 🌐 **Frontend Development**
+  - Responsive web applications
+  - Modern UI/UX implementation
+  - Cross-browser compatibility
+  - Performance optimization
+- 🔄 **Backend Development**
+  - RESTful API architecture
+  - Server-side rendering
+  - Microservices design
+  - Security implementation
+- 📱 **Mobile Development**
+  - Cross-platform applications
+  - Native-like performance
+  - Mobile-first design
+  - App store deployment
 
-### Méthodologies
-- 📋 Agile/Scrum
-- 🔄 CI/CD
-- 🧪 Tests unitaires et d'intégration
-- 📝 Documentation technique
-- 👥 Travail collaboratif
+### 🔧 Network & System Administration
+- 🌐 **Network Monitoring**
+  - Observium deployment
+  - Cacti implementation
+  - Network performance tracking
+  - System health monitoring
+- 🔐 **RADIUS & Authentication**
+  - RADIUS server setup
+  - Subscription management API
+  - User authentication system
+  - Access control implementation
+- 📊 **System Management**
+  - Server administration
+  - Network automation
+  - System optimization
+  - Security hardening
 
-### Soft Skills
-- 💬 Communication efficace
-- 🤝 Travail d'équipe
-- ⚡ Résolution de problèmes
-- 📚 Apprentissage continu
-- ⏰ Gestion du temps
+### 💾 Database Management
+- 📊 **Database Systems**
+  - MySQL expertise
+  - SQL Server management
+  - Database optimization
+  - Query performance tuning
+- 🔄 **Data Operations**
+  - Schema design
+  - Migration management
+  - Backup strategies
+  - Data integrity
+
+### 📝 API Development & Documentation
+- 🔍 **API Design**
+  - RESTful architecture
+  - API versioning
+  - Security protocols
+  - Rate limiting
+- 📚 **Documentation**
+  - Swagger/OpenAPI
+  - API documentation
+  - Technical writing
+  - Code documentation
+- 📊 **Monitoring**
+  - API analytics
+  - Performance tracking
+  - Error monitoring
+  - Usage statistics
+
+### 🛠️ Development Methodologies
+- 📋 **Agile Practices**
+  - Scrum methodology
+  - Sprint planning
+  - User stories
+  - Sprint retrospectives
+- 🔄 **DevOps**
+  - CI/CD pipelines
+  - Automated testing
+  - Deployment automation
+  - Version control
+- 📝 **Documentation**
+  - Technical documentation
+  - API documentation
+  - Code documentation
+  - User guides
+
+### 👥 Soft Skills
+- 💬 **Communication**
+  - Technical presentation
+  - Team collaboration
+  - Client interaction
+  - Documentation
+- ⚡ **Problem Solving**
+  - Analytical thinking
+  - Debugging
+  - Root cause analysis
+  - Solution design
+- 📚 **Learning**
+  - Technology watch
+  - Continuous improvement
+  - Knowledge sharing
+  - Mentoring
 
 ## 🤝 Contact & Collaboration
 
-N'hésitez pas à me contacter pour discuter de projets ou de collaborations ! Je suis toujours ouvert aux nouvelles opportunités et aux discussions techniques.
+Feel free to reach out for project discussions or collaborations! I'm always open to new opportunities and technical discussions.
 
 ---
 ⭐️ From [zibu9](https://github.com/zibu9)
