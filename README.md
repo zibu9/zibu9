@@ -6,6 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zibu9)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KabuyaJunior5)
 [![Website](https://img.shields.io/badge/Website-Skytech243-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://skytech243.com)
+![Profile Views](https://komarev.com/ghpvc/?username=zibu9&color=blueviolet&style=flat-square)
 
 ## 📚 Education
 - 🎓 Bachelor's degree in Computer Science - University of Kinshasa
@@ -35,6 +36,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
 
