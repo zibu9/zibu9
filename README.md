@@ -56,7 +56,7 @@
 ![Mobile](https://img.shields.io/badge/Mobile-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=swagger&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Development
 - 🌐 **Frontend**
   - React & React Native
   - Responsive Design
