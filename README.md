@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zibu9)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KabuyaJunior5)
 [![Website](https://img.shields.io/badge/Website-Skytech243-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://skytech243.com)
-![Profile Views](https://komarev.com/ghpvc/?username=zibu9&color=blueviolet&style=flat-square)
 
 ## 📚 Education
 - 🎓 Bachelor's degree in Computer Science - University of Kinshasa
